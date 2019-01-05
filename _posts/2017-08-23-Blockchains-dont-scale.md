@@ -2,16 +2,17 @@
 layout: post
 title: Blockchains don’t scale, but there’s hope
 ---
+by Preethi Kasireddy
 
 # Blockchains don’t scale. Not today, at least. But there’s hope.
+
+![](/images/580573b75e6c4b5e91dbf68da342ab6a.jpeg)
 
 by Preethi Kasireddy
 
 Aug 23, 2017
 
 ---
-
-![](/images/580573b75e6c4b5e91dbf68da342ab6a.jpeg)
 
 The first Bitcoin [paper](https://bitcoin.org/bitcoin.pdf) was first released in 2008. My excitement about the potential of blockchain technology has been building ever since.   
    
