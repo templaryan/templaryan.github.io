@@ -81,7 +81,7 @@ Blockchains are an exciting technological breakthrough. For the first time ever,
 
 The blockchain community has attracted a number of folks from the crypto community, but has relatively few Distributed Systems Engineers. I wrote this post to give a brief overview of the challenges facing DLT engineers and would like to call upon all the Distributed Systems Engineers to get excited about DLTs and start contributing. If you would like to be part of building the next generation DLT and invent the new algorithms and patterns that will be used for years to come, [join us](https://www.paxos.com/careers/full-stack-engineer-bankchain).
 
-![](/images/c33bb833b73c429daa7607f0a4960f30.png "end"){:height="30%" width="30%"}
+![](/images/c33bb833b73c429daa7607f0a4960f30.png "end"){:height="20%" width="20%"}
 
 ---
 *Originally obtained from [Paxos Engineering](https://eng.paxos.com/why-arent-distributed-systems-engineers-working-on-blockchain-technology)*
