@@ -320,7 +320,8 @@ References:
 
 14K claps
 
-[![Go to the profile of Preethi Kasireddy](/images/ffd65fce89eb4cc5a40d742a381d7827.jpeg)](https://hackernoon.com/@preethikasireddy?source=footer_card "Go to the profile of Preethi Kasireddy")
+[![Go to the profile of Preethi Kasireddy](/images/c08d73b74479429eb3238f3937b7460e.jpeg)](https://medium.com/@preethikasireddy)
+
 
 Blockchain Engineer. I have a passion for understanding things at a fundamental level and sharing it as clearly as possible.
     

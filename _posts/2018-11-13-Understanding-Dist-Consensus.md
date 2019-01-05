@@ -4,7 +4,7 @@ title: How Does Distributed Consensus Work?
 ---
 by Preethi Kasireddy
 
-# How Does Distributed Consensus Work?
+# Let's Take a Crack at Understanding Distributed Consensus
 
 *An overview of key breakthroughs in blockchain technology — and why Nakamoto Consensus is such a big deal*
 
