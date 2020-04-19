@@ -11,7 +11,7 @@ and the Source is with Me
 
 ### More Information
 
-A scrapbook - i.e. a blog of other people interesting posts - which I would like to have at hand (and are sometimes lost in a complex "collective" blogsite).
+A scrapbook - i.e. a blog made of other people's interesting posts - which I would like to have at hand (and are sometimes lost in a complex "collective" blogsite).
 
 Original source is indicated whenever available.
 
